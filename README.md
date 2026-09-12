@@ -1,6 +1,9 @@
 # Vidyalaxmi K — Unity Game Developer Portfolio
 
-Upload the contents of this folder to the root of your `Vidyalax.github.io` repository.
-GitHub Pages: Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
+This portfolio contains two featured projects:
+- Revo Racers
+- WinLott
 
-This version uses a dark navy + purple + cyan game/developer visual style and includes the supplied Revo Racers and WinLott screenshots.
+Number Snap has been removed from the website.
+
+Upload the files to the root of your GitHub Pages repository and deploy from `main` → `/ (root)`.
